@@ -1,0 +1,5 @@
+{
+  "server_url": "wss://YOUR-GPU-SERVICE.example/ws/avatar",
+  "session_token": "SET_AT_RUNTIME",
+  "show_ai_disclosure": true
+}
